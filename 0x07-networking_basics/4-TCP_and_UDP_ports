@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-#program textual an offer outlet listen
-netstat -lp
